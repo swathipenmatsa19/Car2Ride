@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "104725516426",
+    "firebase_url": "https://map-bookreviewapp-c81e2.firebaseio.com",
+    "project_id": "map-bookreviewapp-c81e2",
+    "storage_bucket": "map-bookreviewapp-c81e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104725516426:android:1a1bf2aeedfe27b2f49d73",
+        "android_client_info": {
+          "package_name": "edu.uco.avallabaneni.bookreview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104725516426-bmam8pf2r9hpu97mjtkrbmptsude7o34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfqOHLbOmP-I-hklyQWFD2mVBntkVN0JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104725516426-bmam8pf2r9hpu97mjtkrbmptsude7o34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
